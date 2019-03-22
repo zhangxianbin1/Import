@@ -1,0 +1,15 @@
+D:\新建文件夹\Import\Import\bin\Debug\Import.exe.config
+D:\新建文件夹\Import\Import\bin\Debug\Import.exe
+D:\新建文件夹\Import\Import\bin\Debug\Import.pdb
+D:\新建文件夹\Import\Import\obj\Debug\Import.csprojResolveAssemblyReference.cache
+D:\新建文件夹\Import\Import\obj\Debug\Import.Form1.resources
+D:\新建文件夹\Import\Import\obj\Debug\Import.Properties.Resources.resources
+D:\新建文件夹\Import\Import\obj\Debug\Import.csproj.GenerateResource.Cache
+D:\新建文件夹\Import\Import\obj\Debug\Import.exe
+D:\新建文件夹\Import\Import\obj\Debug\Import.pdb
+D:\新建文件夹\Import\Import\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\新建文件夹\Import\Import\bin\Debug\NPOI.dll
+D:\新建文件夹\Import\Import\bin\Debug\NPOI.OOXML.dll
+D:\新建文件夹\Import\Import\bin\Debug\NPOI.OpenXml4Net.dll
+D:\新建文件夹\Import\Import\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\新建文件夹\Import\Import\bin\Debug\ICSharpCode.SharpZipLib.xml
