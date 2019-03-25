@@ -35,7 +35,17 @@ namespace Import
                 filePath = dialog.FileName;
                 if (filePath != "")
                 {
+                    string message = "";
                     dataTable = ExcelToDataTable(filePath, sheetName);
+                    for (int i = 0; i < dataTable.Rows.Count; i++)
+                    {
+                        message += "第" + i + "行";
+                        for (int j = 0; j < dataTable.Columns.Count; j++)
+                        {
+                            message += dataTable.Rows[i][j] + ",";
+                        }
+                    }
+                    MessageBox.Show(message);
                 }
                 else
                 {
